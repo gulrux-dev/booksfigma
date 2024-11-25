@@ -1,0 +1,417 @@
+.header{
+width: 99.5%;
+height: 50px;
+background-color: black;
+border: 2px solid grey;
+display: flex;
+flex-wrap: wrap;
+border-radius: 10px  10px 0px 0px;
+}
+.button{
+    background-color: black;
+}
+.ism{
+    margin-top: 15px;
+    color: white;
+}
+.uz{
+    margin-top: 10px;
+    font-size: 25px;
+    color:green; 
+}
+.menu{
+    width:400px ;
+display: flex;
+flex-wrap: wrap;
+margin-left: 1300px;
+margin-top: 15px;
+gap: 25px;
+}
+.yozuv{
+    color: white;
+}
+.asosiy{
+    width: 352px;
+    height: auto;
+    background-color: black;
+    border: 2px solid gray; 
+}
+.belgi{
+     width: 338px;
+    height: 40px;
+    border: 2px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding: 5px;
+}
+.yozuv2{
+    display: flex;
+flex-wrap: wrap;
+    width: 340px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    gap: 20px;
+}
+.veb{
+   
+  color: white;
+  background-color: gray;
+  border-radius: 10px;
+  font-size: 20px;
+
+}
+.ism2{
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+.rasm{
+   width: 300px;
+   margin:25px 
+}
+.pochta{
+    display: flex;
+    flex-wrap: wrap;
+    width: 260px;
+    height: 55px;
+    margin-left: 20px;
+}
+.pochta2{
+    margin: 10px;
+    text-align: center;
+    color:white
+    
+}
+.pochta3{
+    margin-right: 90px;
+}
+.pocht{
+    margin-top: 50px;
+}
+.body{
+  
+    width: 1530px; 
+    height: 1700px;
+ background-image:url(photo.jpg) ;
+}
+.otadiv{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    background-image:url(photo.jpg) ;
+}
+.men4{
+    color: green;
+}
+.content{
+    width: 633px;
+    height: 265px;
+    color: white;
+    font-size: 30px;
+    margin-top: 200px;
+    margin-left: 450px;
+    text-align: center;
+}
+.tugma{
+  
+    width: 150px;
+    height: 35px;
+    color: white;
+    background-color: green;
+    margin-left: 790px;
+}
+.content2{
+   
+    width: 1250px;
+    height: 160px;
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    font-weight: 500px;
+    line-height: 27px;
+}
+.tugma2{
+    margin-left: 20px;
+    width: 180px;
+    height: 43px;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+}
+.asbob{
+   
+    width: 1000px;
+    height: 350px;
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+
+.rasmlar{
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+.img{
+
+    width: 50px;
+    height: 50px;
+   margin-top: 40px;
+   margin-left: 80px;
+
+   font-size: 5px;
+}
+.img2{
+    margin-left: 10px;
+   width: 213px;
+   height: 124px;
+   box-shadow: 30px;
+   background-color: rgba(128, 128, 128, 0.671);
+   border: 1px solid rgba(245, 222, 179, 0.281);
+}
+.img4{
+    gap: 20px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 120px;
+    background-color: rgba(128, 128, 128, 0.356);
+    margin-left: 20px;
+    border: 1px solid rgba(245, 222, 179, 0.281);
+}
+.rasmlar2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    
+
+}
+.men{
+    width: 1800px;
+    height: 250px;
+   
+    
+}
+.soz{
+    margin-left: 20px;
+    margin-top: 100px;
+    font-size: 40px;
+    color: white;
+}
+.men2{
+    gap: 50px;
+    margin-top: 150px;
+  
+}
+.mijozlar{
+    margin-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1500px;
+    height: 300px;
+    margin-top: 50px;
+}.rasmlar3{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1500px;
+    height: 150px;
+    gap: 90px;
+ margin-top: 20px;
+   
+}
+.belgilar{
+    border: 1px solid rgba(245, 222, 179, 0.281);
+    background-color:rgba(128, 128, 128, 0.432);
+    width: 264px;
+    height: 163px;
+    gap: 50px;
+}
+.mijoz{
+    margin-left: 20px;
+    color: white;
+    font-size: 50px;
+}
+.loyihalar{
+    background-image:url(photo.jpg) ;
+    width: 1523px;
+    height: 1600px;
+    background-color: black;
+}
+.tugmalar{
+    display: flex;
+    flex-wrap: wrap;
+   
+    width: 1500px;
+    height: 54px;
+
+}
+.fil{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-left: 20px;
+}
+.filtr{
+    border: 1px solid rgba(245, 222, 179, 0.281);
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 20px;
+    background-color:gray;
+}
+.barcha{
+    margin-left: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  
+}
+.barcha2{
+    border: 1px solid rgba(245, 222, 179, 0.281);
+    width: 100px;
+    height: 50px;
+ border-radius: 10px;
+ background-color:gray;
+}
+.rasm12{
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+   gap: 30px;
+}
+.img12{
+    display: flex;
+    flex-wrap: wrap; 
+  width: 700px;
+}
+
+.ofis{
+    color:green;
+font-size: 25px;
+}
+.telegram{
+    width: 1456px;
+    margin-left: 20px;
+    display: flex;
+    flex-wrap: wrap; 
+    background-color: rgba(128, 128, 128, 0.329);
+    margin-top: 40px;
+    border: 1px solid rgba(245, 222, 179, 0.281);
+}
+.kanal{
+    margin-left: 20px;
+    color: white;
+ font-size: 30px;
+
+}
+.button2{
+    width: 200px;
+height: 50px;
+margin-top: 40px;
+background-color: green;
+border-radius: 8px ;
+}
+.mega{
+    margin-top: 40px;
+    width:200px ;
+    height: 228px;
+}
+.telegram2{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 220px;
+    height: 220px;
+}
+.wind{
+    width: 200px;
+    height: 244px;
+}
+
+.megaphone{
+margin-left: 250px;
+}
+.boglanish{
+
+    display: flex;
+    flex-wrap: wrap;  
+    width:1500px;
+    height: 280px;
+    gap: 50px;
+}
+.bog{
+   
+    color: white;
+    font-size: 50px;
+    margin-left: 20px;
+}
+.pochta1{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+   text-align: center;
+    background-color: rgba(0, 0, 0, 0.329);
+    width:350px ;
+    height: 230px;
+    border-radius: 10px;
+ border: 1px solid rgba(245, 222, 179, 0.281);
+}
+.gmail{
+  margin-top: 40px;
+ 
+}
+.sorov{
+    
+    display: flex;
+    flex-wrap: wrap;
+    width: 1500px;
+    height: 450px;
+}
+.ismingiz2{
+    margin-left: 20px;
+    color: white;
+    font-size: 50px;
+   
+}
+.search{
+    margin-left: 20px;
+    width: 500px;
+    height: 44px;
+    background-color: rgba(128, 128, 128, 0.466);
+}
+.search2{
+    width: 290px;
+    height: 44px;
+    background-color: rgba(128, 128, 128, 0.466);  
+}   
+.ismingiz3{
+    
+    margin-left: 50px;
+}
+.sorov3{
+    margin-left: 20px;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.329);
+    width: 1450px;
+    border: 1px solid rgba(245, 222, 179, 0.281);
+}
+.search4{
+    width: 1150px;
+    height: 200px;
+    background-color: rgba(128, 128, 128, 0.308);
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.boglanish6{
+    width: 1522px;
+   
+    height:1200px ;
+    background-image:url(photo.jpg) ;
+}
